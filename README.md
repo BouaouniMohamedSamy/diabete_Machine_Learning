@@ -23,11 +23,13 @@ The dataset used is the **Pima Indians Diabetes Database**, available publicly o
 - Seaborn, Matplotlib
 - Jupyter Notebook
 
+## 🗂️ Project Structure
+- `exploration.ipynb`: Exploratory Data Analysis (EDA) - visualizations, statistics, feature analysis.
+- `cleaning_and_model.ipynb`: Data cleaning, preprocessing, and initial machine learning model.
+
 ## 🚀 Installation
 ```bash
 pip install -r requirements.txt
 
-🗂️ Project Structure
-- `exploration.ipynb`: Exploratory Data Analysis (EDA) - visualizations, statistics, feature analysis.
-- `cleaning_and_model.ipynb`: Data cleaning, preprocessing, and initial machine learning model.
+
 
